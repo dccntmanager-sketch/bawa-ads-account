@@ -1,0 +1,6 @@
+{
+  "name": "Ad Account Manager",
+  "description": "Smart Ads, Strong Growth, and Better Results for small business owners looking to scale their marketing reach efficiently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
